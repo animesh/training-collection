@@ -106,6 +106,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-September-Introduction-to-the-Command-Line-for-Bioinformatics](https://github.com/ucdavis-bioinformatics-training/2023-September-Introduction-to-the-Command-Line-for-Bioinformatics)
 - [**Cloud-SPAN** Cloud-SPAN/prenomics00-intro](https://github.com/cloud-span/prenomics00-intro) | [website](https://cloud-span.github.io/prenomics00-intro/)
 - [**Sergio Martínez Cuesta** semacu/20180726_TrainMalta_Unix_R](https://github.com/semacu/20180726_TrainMalta_Unix_R)
+- [**Bobby Iliev** bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | [website](https://ebook.bobby.sh)
 
 ### Python
 
@@ -143,6 +144,17 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Girls Who Code at U-M DCMB** GWC-DCMB/GWC-DCMB](https://github.com/GWC-DCMB/GWC-DCMB) | [website](http://umich.edu/~girlswc/)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-July-Introduction-To-Python-For-Bioinformatics](https://github.com/ucdavis-bioinformatics-training/2023-July-Introduction-To-Python-For-Bioinformatics)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/PPB18](https://github.com/gtpb/PPB18) | [website](https://gtpb.github.io/PPB18/)
+- [**Swaroop CH** swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python) | [website](https://python.swaroopch.com)
+- [**S.Lott** slott56/building-skills-oo-design-book](https://github.com/slott56/building-skills-oo-design-book) | [website](https://slott56.github.io/building-skills-oo-design-book/build/html/index.html)
+- [**Real Python** realpython/python-guide](https://github.com/realpython/python-guide) | [website](https://docs.python-guide.org)
+- [**OpenTechSchool** OpenTechSchool/python-beginners](https://github.com/OpenTechSchool/python-beginners) | [website](http://opentechschool.github.io/python-beginners/)
+- [**Ankit Mahato** animator/learn-python](https://github.com/animator/learn-python) | [website](https://animator.github.io/learn-python/)
+- [**Sundeep Agarwal** learnbyexample/practice_python_projects](https://github.com/learnbyexample/practice_python_projects) | [website](https://learnbyexample.github.io/practice_python_projects/)
+- [**SoftUni** SoftUni/Programming-Basics-Book-Python-EN](https://github.com/SoftUni/Programming-Basics-Book-Python-EN) | [website](https://python-book.softuni.org)
+- [**Akuli** Akuli/python-tutorial](https://github.com/Akuli/python-tutorial)
+- [**Charles Severance** csev/py4e](https://github.com/csev/py4e) | [website](http://www.py4e.com)
+- [**Kushal Das** kushaldas/pym](https://github.com/kushaldas/pym)
+- [**Greg Malcolm** gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
 
 ### R
 
@@ -255,7 +267,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2023-June-Introduction-to-R-for-Bioinformatics](https://github.com/ucdavis-bioinformatics-training/2023-June-Introduction-to-R-for-Bioinformatics)
 - [**Institut Français de Bioinformatique (IFB)** IFB-ElixirFr/IFB_Shiny_training](https://github.com/IFB-ElixirFr/IFB_Shiny_training) | [website](https://ifb-elixirfr.github.io/IFB_Shiny_training/)
 - [**bioinformatics.ca** bioinformaticsdotca/INR_2023](https://github.com/bioinformaticsdotca/INR_2023)
-- [**ELIXIR Estonia** ELIXIREstonia/2023-10-24-R-basic](https://github.com/ELIXIREstonia/2023-10-24-R-basic)
+- [**ELIXIR Estonia** ELIXIREstonia/2023-10-24-R-basic](https://github.com/ELIXIREstonia/2023-10-24-R-basic) | [website](https://elixir.ut.ee/node/552)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-rstudio-intro-dm-practices](https://github.com/nbisweden/module-rstudio-intro-dm-practices) | [website](https://nbisweden.github.io/module-rstudio-intro-dm-practices/)
 - [**NBIS - National Bioinformatics Infrastructure Sweden** NBISweden/module-r-intro-dm-practices](https://github.com/nbisweden/module-r-intro-dm-practices) | [website](https://nbisweden.github.io/module-r-intro-dm-practices/)
 - [**The Gulbenkian Training Programme in Bioinformatics** GTPB/ABSTAT18](https://github.com/gtpb/ABSTAT18) | [website](https://gtpb.github.io/ABSTAT18/)
@@ -263,6 +275,10 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Sergio Martínez Cuesta** semacu/20180531_DataVisualisationRggplot2_Wolfson_Cambridge](https://github.com/semacu/20180531_DataVisualisationRggplot2_Wolfson_Cambridge)
 - [**Data Carpentry** datacarpentry/ecology-workshop](https://github.com/datacarpentry/ecology-workshop) | [website](http://www.datacarpentry.org/ecology-workshop/)
 - [**Jacques van Helden** jvanheld/stats_avec_RStudio_EBA](https://github.com/jvanheld/stats_avec_RStudio_EBA) | [website](http://jvanheld.github.io/stats_avec_RStudio_EBA/)
+- [**proback** proback/BeyondMLR](https://github.com/proback/BeyondMLR)
+- [**Data Challenge Lab Open Content** dcl-docs/prog](https://github.com/dcl-docs/prog) | [website](https://dcl-prog.stanford.edu)
+- [**G. Jay Kerns** gjkerns/IPSUR](https://github.com/gjkerns/IPSUR) | [website](http://ipsur.org)
+- [**Roger D. Peng** rdpeng/rprogdatascience](https://github.com/rdpeng/rprogdatascience)
 
 ### Quarto
 
@@ -283,6 +299,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**JuliaAcademy** JuliaAcademy/DataFrames](https://github.com/JuliaAcademy/DataFrames)
 - [**JuliaAcademy** JuliaAcademy/Foundations-of-Machine-Learning](https://github.com/JuliaAcademy/Foundations-of-Machine-Learning) | [website](https://juliaacademy.com/p/introduction-to-machine-learning)
 - [**carpentries-incubator** carpentries-incubator/julia-novice](https://github.com/carpentries-incubator/julia-novice) | [website](https://carpentries-incubator.github.io/julia-novice)
+- [**Antonello Lobianco** sylvaticus/SPMLJ](https://github.com/sylvaticus/SPMLJ) | [website](https://sylvaticus.github.io/SPMLJ/stable)
+- [**Ben Lauwens** BenLauwens/ThinkJulia.jl](https://github.com/BenLauwens/ThinkJulia.jl)
 
 ### Data visualization
 
@@ -671,6 +689,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Nicola Rennie** nrennie/r-pharma-2023-tidymodels](https://github.com/nrennie/r-pharma-2023-tidymodels) | [website](https://nrennie.github.io/r-pharma-2023-tidymodels/)
 - [**udlbook** udlbook/udlbook](https://github.com/udlbook/udlbook)
 - [**bioinformatics.ca** bioinformaticsdotca/MLE_2023](https://github.com/bioinformaticsdotca/MLE_2023)
+- [**SIB Swiss Institute of Bioinformatics** sib-swiss/pytorch-practical-training](https://github.com/sib-swiss/pytorch-practical-training)
 
 ## Others
 
