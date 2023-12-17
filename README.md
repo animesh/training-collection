@@ -280,6 +280,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**G. Jay Kerns** gjkerns/IPSUR](https://github.com/gjkerns/IPSUR) | [website](http://ipsur.org)
 - [**Roger D. Peng** rdpeng/rprogdatascience](https://github.com/rdpeng/rprogdatascience)
 - [**Marek Gagolewski** gagolews/deepr](https://github.com/gagolews/deepr) | [website](https://deepr.gagolewski.com)
+- [**bougioukas** bougioukas/practical_stats_med-r](https://github.com/bougioukas/practical_stats_med-r)
 
 ### Quarto
 
