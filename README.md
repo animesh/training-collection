@@ -107,6 +107,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Cloud-SPAN** Cloud-SPAN/prenomics00-intro](https://github.com/cloud-span/prenomics00-intro) | [website](https://cloud-span.github.io/prenomics00-intro/)
 - [**Sergio Martínez Cuesta** semacu/20180726_TrainMalta_Unix_R](https://github.com/semacu/20180726_TrainMalta_Unix_R)
 - [**Bobby Iliev** bobbyiliev/introduction-to-bash-scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) | [website](https://ebook.bobby.sh)
+- [**Firas Zemzem** Zemzemfiras1/Mastering_Linux_Tutorials](https://github.com/Zemzemfiras1/Mastering_Linux_Tutorials)
 
 ### Python
 
@@ -155,6 +156,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**Charles Severance** csev/py4e](https://github.com/csev/py4e) | [website](http://www.py4e.com)
 - [**Kushal Das** kushaldas/pym](https://github.com/kushaldas/pym)
 - [**Greg Malcolm** gregmalcolm/python_koans](https://github.com/gregmalcolm/python_koans)
+- [**BioINForm** bioinform-org/bioinforming-hs](https://github.com/bioinform-org/bioinforming-hs)
 
 ### R
 
@@ -283,6 +285,8 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**bougioukas** bougioukas/practical_stats_med-r](https://github.com/bougioukas/practical_stats_med-r)
 - [**TaniaW** taniawyss/flow-cytometry-analysis-with-R](https://github.com/taniawyss/flow-cytometry-analysis-with-R/)
 - [**Roger D. Peng** rdpeng/exdata](https://github.com/rdpeng/exdata)
+- [**Rafael A Irizarry** rafalab/dsbook-part-1](https://github.com/rafalab/dsbook-part-1)
+- [**Rafael A Irizarry** rafalab/dsbook-part-2](https://github.com/rafalab/dsbook-part-2)
 
 ### Quarto
 
@@ -486,6 +490,7 @@ Below you'll find a curated list of **bioinformatics training material**. All ma
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2022-July-Advanced-Topics-in-Single-Cell-RNA-Seq-ATAC](https://github.com/ucdavis-bioinformatics-training/2022-July-Advanced-Topics-in-Single-Cell-RNA-Seq-ATAC)
 - [**UC Davis Bioinformatics Core Training Page** ucdavis-bioinformatics-training/2021-August-Advanced-Topics-in-Single-Cell-RNA-Seq-Trajectory-and-Velocity](https://github.com/ucdavis-bioinformatics-training/2021-August-Advanced-Topics-in-Single-Cell-RNA-Seq-Trajectory-and-Velocity)
 - [**bioinformatics.ca** bioinformaticsdotca/scRNA_2023](https://github.com/bioinformaticsdotca/scRNA_2023)
+- [**Theis Lab** theislab/single-cell-tutorial](https://github.com/theislab/single-cell-tutorial)
 
 ### Variant analysis
 
